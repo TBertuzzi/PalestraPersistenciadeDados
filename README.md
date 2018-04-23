@@ -1,4 +1,4 @@
-# Palestra sobre Persistencia Dados com Xamarin.Forms.
+# Palestra sobre Persistencia Dados com Xamarin.Forms
 
 Exemplos da Palestra Persistencia  de dados com Xamarin.Forms.
 
