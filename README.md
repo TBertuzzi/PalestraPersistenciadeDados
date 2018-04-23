@@ -1,6 +1,19 @@
-# PalestraPersistenciadeDados
+# Palestra sobre Persistencia Dados com Xamarin.Forms.
 
 Exemplos da Palestra Persistencia  de dados com Xamarin.Forms.
+
+A utilização de serviços Rest em aplicativos movéis é uma pratica comum para desenvolvedores mobile. 
+
+Mas e se precisamos guardar e gerenciar dados locais ? 
+
+Sera que com apenas o SQLite resolvemos todos os nosso problemas? 
+
+Nesta palestra vamos abordar outras formas de persistir dados no nosso querido Xamarin.Forms:
+
+* Dados Locais
+* Realm
+* LiteDB
+* Cache
 
 Quer saber mais ?
 
