@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DadosLocaisExemplo"
+             x:Class="DadosLocaisExemplo.MainPage" Padding="0,20,0,0">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Vamos guardar esse login" Margin="0,0,0,20" />
+
+            <Label Text="Login" />
+            <Entry x:Name="txtLogin"></Entry>
+            <Label Text="Senha" />
+            <Entry x:Name="txtSenha" IsPassword="True"></Entry>
+
+            <Button x:Name="btnSalvar" Text="Salvar Login" Clicked="btnSalvar_Clicked"></Button>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
